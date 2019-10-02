@@ -256,7 +256,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   </form> 
 
   <form action="/goData_page">
-  <input type="submit" value="Data Table">
+  <input type="submit" value="Download">
   </form> 
 
 </div>
